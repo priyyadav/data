@@ -29,11 +29,6 @@ I'm Priyanka, a Techie from <b>Uttar Pradesh, India</b>.
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=tue) -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-
-
 
 ---
 
@@ -48,7 +43,7 @@ I'm Priyanka, a Techie from <b>Uttar Pradesh, India</b>.
     width="26px"
     src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Gmail.svg"
   />
-</a> -->
+</a> 
 
 
 <a href="https://linkedin.com/in/shafi-khan-/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>
